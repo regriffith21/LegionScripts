@@ -7,7 +7,7 @@
   <strong>Quality Jackpot website for ⅕ the price!</strong>
 </div>
 <div align="center">
-  Built with <code>node.js</code> buy now here: http://legionscripts.com/
+  Built with <code>nodejs</code>
 </div>
 
 <br />
@@ -33,4 +33,25 @@
     <img src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square"
       alt="Standard" />
   </a>
+</div>
+
+<div align="center">
+  <h3>
+    <a href="http://legionscripts.com/">
+      Website
+    </a>
+    <span> | </span>
+    <a href="https://discord.gg/zg6EPyJ">
+      Discord
+    </a>
+    <span> | </span>
+    <a href="https://github.com/legionscripts/legionscripts/blob/master/CONTRIBUTING.md">
+      Contributing
+    </a>
+  </h3>
+</div>
+
+<div align="center">
+  <sub>The Jackpot script that could. Built with ❤︎ by
+  <a href="">Gergo</a> and
 </div>
