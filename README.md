@@ -61,7 +61,7 @@
 - [Prerequisites](#prerequisites)
 - [Deployment](#deployment)
 - [Running](#running)
-- [Built With](#built with)
+- [Built With](#built-with)
 
 ## Information
 Hello and thank you for purchasing Legion Jackpot 1.3 BETA. We now have a Provably Fair system!
@@ -171,7 +171,7 @@ Check out our addons on legionscripts.com/whmcs , more products coming soon, we 
 
 If you need help installing your VPS you can purchase an installation addon.
 
-## Built With
+## Built-With
 
 * [Node](https://github.com/nodejs/node/blob/master/README.md) - JavaScript Web Runtime
 * [Npm](https://github.com/npm/npm) - Package Managemer
