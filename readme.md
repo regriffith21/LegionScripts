@@ -7,7 +7,7 @@
   <strong>Quality Jackpot website for ⅕ the price!</strong>
 </div>
 <div align="center">
-  Built with <code>nodejs</code>
+  Built with <code>nodejs</code> & <code>php</code>
 </div>
 
 <br />
