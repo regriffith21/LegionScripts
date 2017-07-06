@@ -7,7 +7,7 @@
   <strong>Quality Jackpot website for ⅕ the price!</strong>
 </div>
 <div align="center">
-  Built with <code>nodejs</code> buy now here: http://legionscripts.com/
+  Built with <code>node.js</code> buy now here: http://legionscripts.com/
 </div>
 
 <br />
