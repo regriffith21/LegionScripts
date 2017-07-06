@@ -48,6 +48,10 @@
     <a href="https://github.com/legionscripts/legionscripts/blob/master/contributing.md">
       Contributing
     </a>
+    <span> | </span>
+    <a href="https://github.com/legionscripts/legionscripts/blob/master/customization.md">
+      Customization
+    </a>
   </h3>
 </div>
 
