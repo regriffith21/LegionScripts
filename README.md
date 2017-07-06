@@ -54,3 +54,16 @@
 <div align="center">
   <sub>The Jackpot script that could. Built with ❤︎ by Gergo.
 </div>
+
+## Table of Content
+- [Information](#information)
+
+## Information
+Hello and thank you for purchasing Legion Jackpot 1.3 BETA. We now have a Provably Fair system!
+(note if you have not purchased the script you can find it here <a href="http://legionscripts.com/"> Buy Now</a>)
+
+Legion Scripts is still in BETA so more information should be released shortly about customization and all that.
+
+The main objective now is to test how it works and provide feedback, you can already start a website and customize your script, you have been given a stable release.
+
+Please note this is a BETA release, bugs will be fixed asap.
