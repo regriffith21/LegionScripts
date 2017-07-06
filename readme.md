@@ -185,3 +185,4 @@ If you need help installing your VPS you can purchase an installation addon.
 
 * [Node](https://github.com/nodejs/node/blob/master/README.md) - JavaScript Web Runtime
 * [Npm](https://github.com/npm/npm) - Package Manager
+* [Php](https://github.com/docker-library/php) - Hypertext Preprocessor
