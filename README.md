@@ -52,6 +52,5 @@
 </div>
 
 <div align="center">
-  <sub>The Jackpot script that could. Built with ❤︎ by
-  <a href="">Gergo</a> and
+  <sub>The Jackpot script that could. Built with ❤︎ by Gergo.
 </div>
