@@ -101,7 +101,7 @@ sudo apt-get install php5-gd
 sudo service apache2 restart 
 sudo apt-get install phpmyadmin
 
-cd var/www/
+cd /var/www/
 
 curl -sL https://deb.nodesource.com/setup_4.x | sudo -E bash - 
 sudo apt-get install -y nodejs
