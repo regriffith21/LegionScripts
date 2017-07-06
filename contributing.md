@@ -45,8 +45,8 @@
       Discord
     </a>
     <span> | </span>
-    <a href="https://github.com/legionscripts/legionscripts/blob/master/CONTRIBUTING.md">
-      Contributing
+    <a href="https://github.com/legionscripts/legionscripts/blob/master/readme.md">
+      Installation
     </a>
   </h3>
 </div>
