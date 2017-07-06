@@ -89,6 +89,12 @@ What things you need to install the script
 1GB RAM VPS
 Ubuntu 14.04 x64 (recommended)
 ```
+
+for better support we would recommend the following
+```
+2GB RAM VPS
+Ubuntu 14.04 x64 (recommended)
+```
 ## Deployment
 
 This is the part of the guide will help you deploy the system on a VPS.
