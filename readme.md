@@ -159,7 +159,11 @@ PLEASE DO NOT USE /var/www/html FOR YOUR BOTS/SERVER FILES!
 
 ## Running
 
-Use node first to start your server and / or bot, close the process by pressing CTRL+C once you confirm it works or it returns an error:
+Use node first to start your server & bot (make sure your in /var/apps/ directory)
+```
+cd /var/apps/ directory
+```
+close the process by pressing CTRL+C once you confirm it works or it returns an error
 ```
 node legion-bot.js
 node legion-server.js
