@@ -173,6 +173,12 @@ forever start legion-server.js
 ```
 That way everything will run smoothly without issues, and your site should be up and ready to go.
 
+if for any reason you want to stop the script to restart etc you can use
+```
+forever stop legion-bot.js
+forever stop legion-server.js
+```
+
 ## Other
 
 Small addition to the installation guide provided: You have to edit your js/script.js, edit the IP / Port to your website's IP (or domain) and the Port you provided in your legion-server.js (2086 by default, it's a port accepted by cloudflare also)
