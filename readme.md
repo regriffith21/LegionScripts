@@ -127,6 +127,7 @@ npm install steam-user
 npm install steam-tradeoffer-manager
 npm install steam-totp
 npm install onceler
+npm install sha256
 npm install request
 npm install steamcommunity
 npm install node-fs
