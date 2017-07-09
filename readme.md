@@ -132,7 +132,7 @@ npm install request
 npm install steamcommunity
 npm install node-fs
 npm install socket.io-client
-npm install log4js
+npm install log4js@1.0.0 
 npm install dateformat
 npm install mysql
 npm install crypto
