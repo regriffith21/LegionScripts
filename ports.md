@@ -56,7 +56,7 @@
   <sub>The Jackpot script that could. Built with ❤︎ by Gergo.
 </div>
 
-##HTTP
+## HTTP
 ```
 80
 8080
@@ -67,7 +67,7 @@
 2095
 ```
 
-##HTTPS
+## HTTPS
 ```
 443
 2053
