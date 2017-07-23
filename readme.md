@@ -143,6 +143,7 @@ npm install http
 npm install socket.io
 npm install left-pad
 npm install forever -g
+npm install random-js
 ```
 How to install the web application part of the system.
 ```
