@@ -105,13 +105,18 @@ sudo apt-get install apache2
 sudo apt-get install mysql-server php5-mysql 
 sudo mysql_install_db 
 sudo mysql_secure_installation 
-apt-get install php5 libapache2-mod-php5 php5-mcrypt 
+apt-get install php5 libapache2-mod-php5 php5-mcrypt
+sudo apt-get install php5-mcrypt
+sudo ln -s /etc/php5/conf.d/mcrypt.ini /etc/php5/mods-available
+sudo php5enmod mcrypt 
+sudo service apache2 restart
 sudo apt-get install php5-curl 
 sudo apt-get install php5-gd 
 sudo service apache2 restart 
 sudo apt-get install phpmyadmin
+sudo ln -s /usr/share/phpmyadmin /var/www/html
 
-cd /var/www/
+cd /var/apps "you will need to make the directory first on file manager"
 
 curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash - 
 sudo apt-get install -y nodejs
