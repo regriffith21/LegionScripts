@@ -86,7 +86,7 @@ See (Deployment) for notes on how to deploy the project on a live system.
 What things you need to install the script
 
 ```
-1GB RAM VPS - For each gamemode
+1GB RAM - For each gamemode
 Ubuntu 14.04 x64 (recommended)
 ```
 
