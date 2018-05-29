@@ -86,7 +86,7 @@ See (Deployment) for notes on how to deploy the project on a live system.
 What things you need to install the script
 
 ```
-1GB RAM VPS
+1GB RAM VPS - For each gamemode
 Ubuntu 14.04 x64 (recommended)
 ```
 
@@ -178,7 +178,7 @@ node legion-server.js
 ```
 Wait a few seconds after trying to launch each to see if everything works properly and it is not returning any errors. If it's returning errors check if you've set up everything correctly, or contact us on Discord.
 
-Once you are sure everything runs smoothly, run both files using forever:
+Once you are sure everything runs smoothly, run both files using pm2:
 ```
 pm2 start legion-bot.js
 pm2 start legion-server.js
