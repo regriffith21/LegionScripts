@@ -122,7 +122,7 @@ curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
 
-( Be sure to be in the folder /var/www before you install NPM libraries ) 
+( Be sure to be in the folder /var/apps/ before you install NPM libraries ) 
 
 ```
 npm install async
@@ -149,6 +149,7 @@ npm install socket.io
 npm install left-pad
 npm install forever -g
 npm install random-js
+npm install pm2 -g
 ```
 How to install the web application part of the system.
 ```
@@ -179,15 +180,19 @@ Wait a few seconds after trying to launch each to see if everything works proper
 
 Once you are sure everything runs smoothly, run both files using forever:
 ```
-forever start legion-bot.js
-forever start legion-server.js
+pm2 start legion-bot.js
+pm2 start legion-server.js
 ```
 That way everything will run smoothly without issues, and your site should be up and ready to go.
 
 if for any reason you want to stop the script to restart etc you can use
 ```
-forever stop legion-bot.js
-forever stop legion-server.js
+pm2 stop legion-bot.js
+pm2 stop legion-server.js
+pm2 restart legion-bot.js
+pm2 restart legion-server.js
+or
+pm2 restart all
 ```
 
 ## Other
